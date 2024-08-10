@@ -1,0 +1,20 @@
+{
+  "name": "basic-precheck-app",
+  "version": "1.0.0",
+  "description": "this is an basic-aadhaar-application (only for learning purpose)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "basic-aadhaar-app"
+  ],
+  "author": "M. Asraf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "zod": "^3.23.8"
+  }
+}
